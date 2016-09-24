@@ -1,0 +1,8 @@
+[package]
+name = "use_router"
+version = "0.1.0"
+authors = ["Pocket7878 <poketo7878@gmail.com>"]
+
+[dependencies]
+iron = "*"
+router = "*"
