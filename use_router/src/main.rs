@@ -13,8 +13,11 @@ fn main() {
     }
 
     fn redirect_handler(req: &mut Request) -> IronResult<Response> {
-        let ref top_url = url_for(req, "index", ::std::collections::HashMap::new());
-        return Ok(Response::with((status::Found, Redirect(top_url.clone()))))
+        let ref top_url = url_for(
+            req, "index",
+            ::std::collections::HashMap::new());
+        return Ok(Response::with(
+            (status::Found, Redirect(top_url.clone()))))
     }
 
     fn greet_handler(req: &mut Request) -> IronResult<Response> {

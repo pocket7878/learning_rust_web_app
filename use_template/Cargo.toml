@@ -1,0 +1,11 @@
+[package]
+name = "use_template"
+version = "0.1.0"
+authors = ["Pocket7878 <poketo7878@gmail.com>"]
+build = "build.rs"
+
+[dependencies]
+iron = "0.4.0"
+router = "0.4.0"
+handlebars-iron = "0.18.0"
+params = "0.4.1"

@@ -1,0 +1,2 @@
+cargo:include=/usr/local/opt/openssl/include
+cargo:libdir=/usr/local/opt/openssl/lib
