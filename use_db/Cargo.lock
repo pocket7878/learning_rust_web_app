@@ -217,7 +217,7 @@ version = "0.1.0"
 dependencies = [
  "iron 0.4.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "r2d2 0.7.0 (registry+https://github.com/rust-lang/crates.io-index)",
- "r2d2_mysql 3.0.0",
+ "r2d2_mysql 3.0.0 (git+https://github.com/pocket7878/r2d2-mysql.git?branch=update-r2d2-version)",
 ]
 
 [[package]]
@@ -562,6 +562,7 @@ dependencies = [
 [[package]]
 name = "r2d2_mysql"
 version = "3.0.0"
+source = "git+https://github.com/pocket7878/r2d2-mysql.git?branch=update-r2d2-version#04991093e63e2d804a8b57111be986c0145bb1df"
 dependencies = [
  "mysql 3.0.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "r2d2 0.7.0 (registry+https://github.com/rust-lang/crates.io-index)",
@@ -894,6 +895,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 "checksum quick-error 1.1.0 (registry+https://github.com/rust-lang/crates.io-index)" = "0aad603e8d7fb67da22dbdf1f4b826ce8829e406124109e73cf1b2454b93a71c"
 "checksum r2d2 0.6.4 (registry+https://github.com/rust-lang/crates.io-index)" = "d154b63cf63b74f7d46f6dc48a71d7b50ac98437767085697ea374758e392f09"
 "checksum r2d2 0.7.0 (registry+https://github.com/rust-lang/crates.io-index)" = "a63c7dd6655b3165145c5c140e8548ba2176a263682c07aaead2fe79eedd97bc"
+"checksum r2d2_mysql 3.0.0 (git+https://github.com/pocket7878/r2d2-mysql.git?branch=update-r2d2-version)" = "<none>"
 "checksum r2d2_mysql 3.0.0 (registry+https://github.com/rust-lang/crates.io-index)" = "52937b63afb6c21d7892cb66aced3f891e44e83305c0e89c77ee3d5a13ad9eb5"
 "checksum rand 0.3.14 (registry+https://github.com/rust-lang/crates.io-index)" = "2791d88c6defac799c3f20d74f094ca33b9332612d9aef9078519c82e4fe04a5"
 "checksum regex 0.1.77 (registry+https://github.com/rust-lang/crates.io-index)" = "64b03446c466d35b42f2a8b203c8e03ed8b91c0f17b56e1f84f7210a257aa665"

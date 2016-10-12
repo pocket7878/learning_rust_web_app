@@ -1,1 +1,1 @@
-{"rustc":9282926080504141940,"target":4067080059973056760,"profile":11154289914177168617,"local":{"variant":"Precalculated","fields":["0.1.7"]},"features":"None","deps":[["semver v0.1.20",8731462038714840530]],"rustflags":[]}
+{"rustc":9282926080504141940,"target":4067080059973056760,"profile":11154289914177168617,"local":{"variant":"Precalculated","fields":["0.1.7"]},"features":"None","deps":[["semver v0.1.20",3470493194581735343]],"rustflags":["--error-format=json"]}
