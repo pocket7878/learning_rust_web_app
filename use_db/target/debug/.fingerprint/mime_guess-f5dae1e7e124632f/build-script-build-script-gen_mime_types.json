@@ -1,0 +1,1 @@
+{"rustc":9282926080504141940,"target":6159903178577930256,"profile":11154289914177168617,"local":{"variant":"Precalculated","fields":["1.8.0"]},"features":"None","deps":[["phf_codegen v0.7.17",15565747521863231834],["unicase v1.4.0",10913278148956296187]],"rustflags":[]}

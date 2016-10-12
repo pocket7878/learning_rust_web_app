@@ -1,0 +1,1 @@
+{"rustc":9282926080504141940,"target":8527316553030153956,"profile":11154289914177168617,"local":{"variant":"Precalculated","fields":["3.0.0"]},"features":"None","deps":[["mysql v3.0.0",3246005665831033701],["r2d2 v0.6.4",3166524276141688467],["rustc-serialize v0.3.19",1697739590056777046]],"rustflags":[]}
