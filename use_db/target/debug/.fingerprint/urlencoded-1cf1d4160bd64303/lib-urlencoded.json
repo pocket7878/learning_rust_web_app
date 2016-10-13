@@ -1,1 +1,0 @@
-{"rustc":9282926080504141940,"target":2219371911489727444,"profile":11154289914177168617,"local":{"variant":"Precalculated","fields":["0.4.1"]},"features":"None","deps":[["bodyparser v0.4.1",5165993569563186874],["iron v0.4.0",979737869861619635],["plugin v0.2.6",12175863385692579040],["url v1.2.1",15629301424021734154]],"rustflags":["--error-format=json"]}

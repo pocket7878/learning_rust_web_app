@@ -1,1 +1,0 @@
-{"rustc":9282926080504141940,"target":9622492898215080431,"profile":11154289914177168617,"local":{"variant":"Precalculated","fields":["0.2.0"]},"features":"None","deps":[["iron v0.4.0",979737869861619635],["plugin v0.2.6",12175863385692579040]],"rustflags":["--error-format=json"]}

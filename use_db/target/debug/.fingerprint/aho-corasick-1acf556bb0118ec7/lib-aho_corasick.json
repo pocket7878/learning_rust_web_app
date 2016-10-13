@@ -1,1 +1,0 @@
-{"rustc":9282926080504141940,"target":15338949547043033813,"profile":11154289914177168617,"local":{"variant":"Precalculated","fields":["0.5.3"]},"features":"None","deps":[["memchr v0.1.11",15944425646169290801]],"rustflags":["--error-format=json"]}
